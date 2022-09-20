@@ -1,0 +1,37 @@
+#signup-form{
+    width:800px;
+    margin: 20px auto;
+}
+
+#login-form{
+    width:700px;
+    margin: 20px auto;
+}
+
+
+#signup-form,#login-form{
+    display: none;
+}
+
+.cardsmobile ,.cardselectronics{
+    display: flex;
+    justify-content: space-between;
+   
+    padding: 30px;
+}
+
+.card-1,.card-2,.card-3{
+    box-shadow: 2px 2px 2px;
+    width: 30%;
+    gap: 20px;
+}
+#customer{
+ 
+    width:700px;
+    margin: 20px auto;
+}
+button{
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
